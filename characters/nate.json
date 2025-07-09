@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				293,
+				229
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				95,
+				207
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				42,
+				-50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				200,
+				66
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				293,
+				229
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "RMiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				42,
+				-50
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "DMiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				95,
+				207
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "UMiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				200,
+				66
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "LMiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				136,
+				60
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "Hey",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Nate",
+	"position": [
+		-95,
+		-10
+	],
+	"healthicon": "nate",
+	"flip_x": true,
+	"healthbar_colors": [
+		72,
+		11,
+		51
+	],
+	"camera_position": [
+		20,
+		200
+	],
+	"sing_duration": 4,
+	"scale": 0.6
+}

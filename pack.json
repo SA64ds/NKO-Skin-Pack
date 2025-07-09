@@ -1,0 +1,8 @@
+{
+	"name": "Nate Skin",
+	"description": "A skin for Nate for use in Psych Online. Comes with the mixes from FNF Nate Mix.",
+	"restart":false,
+	"runsGlobally": false,
+	"color": [170, 0, 255],
+	"discordRPC": "863222024192262205"
+}

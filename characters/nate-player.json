@@ -1,0 +1,150 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [96, 66],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [235, 207],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-8, -50],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [11, 229],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right",
+			"indices": []
+		},
+		{
+			"offsets": [96, 66],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "LMiss"
+		},
+		{
+			"offsets": [-8, -50],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "DMiss"
+		},
+		{
+			"offsets": [235, 207],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "UMiss"
+		},
+		{
+			"offsets": [11, 229],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "RMiss"
+		},
+		{
+			"offsets": [136, 60],
+			"indices": [],
+			"fps": 24,
+			"anim": "hey",
+			"loop": false,
+			"name": "Hey"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				120,
+				50
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "firstDeath",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-25,
+				-100
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathLoop",
+			"loop": false,
+			"name": "deathLoop"
+		},
+		{
+			"offsets": [
+				131,
+				202
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathConfirm",
+			"loop": false,
+			"name": "deathConfirm"
+		},
+		{
+			"offsets": [
+				-25,
+				-100
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "lose",
+			"loop": false,
+			"name": "deathLoop"
+		},
+		{
+			"offsets": [
+				131,
+				202
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "loseLoop",
+			"loop": false,
+			"name": "deathConfirm"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Nate",
+	"position": [-95, -10],
+	"healthicon": "nate",
+	"flip_x": true,
+	"healthbar_colors": [72, 11, 51],
+	"camera_position": [20, 200],
+	"sing_duration": 4,
+	"scale": 0.6,
+	"_editor_isPlayer": true
+}
