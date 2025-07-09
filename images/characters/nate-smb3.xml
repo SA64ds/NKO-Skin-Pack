@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="nate-smb3.png">
+  <SubTexture name="idle 0" x="0" y="0" width="32" height="36" />
+  <SubTexture name="idle 1" x="32" y="0" width="32" height="36" />
+  <SubTexture name="idle 2" x="64" y="0" width="32" height="36" />
+  <SubTexture name="idle 3" x="64" y="0" width="32" height="36" />
+  <SubTexture name="up 0" x="96" y="0" width="32" height="36" />
+  <SubTexture name="up 1" x="0" y="36" width="32" height="36" />
+  <SubTexture name="upmiss 0" x="32" y="36" width="32" height="36" />
+  <SubTexture name="left 0" x="64" y="36" width="32" height="36" />
+  <SubTexture name="left 1" x="96" y="36" width="32" height="36" />
+  <SubTexture name="leftmiss 0" x="0" y="72" width="32" height="36" />
+  <SubTexture name="right 0" x="32" y="72" width="32" height="36" />
+  <SubTexture name="right 1" x="64" y="72" width="32" height="36" />
+  <SubTexture name="rightmiss 0" x="96" y="72" width="32" height="36" />
+  <SubTexture name="down 0" x="0" y="108" width="32" height="36" />
+  <SubTexture name="down 1" x="32" y="108" width="32" height="36" />
+  <SubTexture name="downmiss 0" x="64" y="108" width="32" height="36" />
+</TextureAtlas>

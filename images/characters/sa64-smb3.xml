@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sa64-smb3.png">
+<SubTexture name="idle 0" x="0" y="0" width="31" height="35" frameX="0" frameY="0" frameWidth="27" frameHeight="31" duration="300"/>
+<SubTexture name="idle 1" x="31" y="0" width="31" height="35" frameX="0" frameY="0" frameWidth="27" frameHeight="31" duration="200"/>
+<SubTexture name="left 0" x="62" y="0" width="31" height="35" frameX="0" frameY="0" frameWidth="27" frameHeight="31" duration="100"/>
+<SubTexture name="left 1" x="93" y="0" width="31" height="35" frameX="0" frameY="0" frameWidth="27" frameHeight="31" duration="100"/>
+<SubTexture name="right 0" x="0" y="35" width="31" height="35" frameX="0" frameY="0" frameWidth="27" frameHeight="31" duration="100"/>
+<SubTexture name="right 1" x="31" y="35" width="31" height="35" frameX="0" frameY="0" frameWidth="27" frameHeight="31" duration="100"/>
+<SubTexture name="up 0" x="62" y="35" width="31" height="35" frameX="0" frameY="0" frameWidth="27" frameHeight="31" duration="100"/>
+<SubTexture name="up 1" x="93" y="35" width="31" height="35" frameX="0" frameY="0" frameWidth="27" frameHeight="31" duration="100"/>
+<SubTexture name="down 0" x="0" y="70" width="31" height="35" frameX="0" frameY="0" frameWidth="27" frameHeight="31" duration="100"/>
+<SubTexture name="down 1" x="31" y="70" width="31" height="35" frameX="0" frameY="0" frameWidth="27" frameHeight="31" duration="100"/>
+</TextureAtlas>

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle "
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up "
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left "
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right "
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down "
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/nate-smb3",
+	"position": [
+		220,
+		530
+	],
+	"healthicon": "nate",
+	"flip_x": true,
+	"healthbar_colors": [
+		72,
+		11,
+		51
+	],
+	"camera_position": [
+		-100,
+		-50
+	],
+	"sing_duration": 6,
+	"scale": 10
+}
